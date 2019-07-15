@@ -1,1 +1,1 @@
-# wp-yiddishizer
+# WP Yiddishizer
